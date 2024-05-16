@@ -1,1 +1,0 @@
-# code-prep-gemini-ai-course
