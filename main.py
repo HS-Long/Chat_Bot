@@ -17,9 +17,9 @@ st.set_page_config(
     page_icon="🚀",
     layout="centered",
 )
-st.markdown("<h1 style='text-align: center;'>Institute of Technology of Cambodia</h1>", unsafe_allow_html=True)
-st.markdown("<h1 style='text-align: center;'>Department of AMS</h1>", unsafe_allow_html=True)
-st.markdown("<h1 style='text-align: center;'>🤖 Play With Chat Bot 📊</h1>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center;'>Institute of Technology of Cambodia</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center;'>Department of AMS</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center;'>🤖 Play With Chat Bot 📊</h2>", unsafe_allow_html=True)
 # Custom CSS for the navigation bar
 st.markdown("""
     <style>
